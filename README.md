@@ -18,3 +18,16 @@ Below are the key questions addressed in this project:
 - How are in-demand skills trending for Data Analysts?  
 - How well do Data Analyst roles and individual skills pay?  
 - What are the optimal skills for Data Analysts to learn (high demand and high paying)?  
+
+---
+
+## 🛠 Tools & Technologies  
+
+- **Python**
+  - Pandas – Data manipulation and transformation  
+  - Matplotlib – Data visualization  
+  - Seaborn – Statistical data visualization  
+  - Plotly – Interactive visualizations  
+
+- **Jupyter Notebook / VS Code** – Development environment  
+- **CSV dataset** – Source of job market data 
